@@ -1,7 +1,8 @@
 <div align="center">
 
 # Udayan Guha
-### Data Engineering & SRE Lead · 20+ years · GCP · BigQuery · Airflow · Terraform
+### **Responsible AI & Ethical Governance | Enterprise ML Platforms & MLOps | AI Ethics & Regulatory Compliance | IIM Lucknow (SLP '26)**
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udayanguha)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://guhaudayan.github.io/)
@@ -13,12 +14,11 @@
 
 ## 🧭 About
 
-Data Engineering & SRE Lead at **Rackspace Technology**, Pune — 20+ years across Infosys, IBM, Cognizant, and Rackspace.
-Deep hands-on experience in GCP data platforms, BigQuery, Cloud Composer/Airflow, Terraform, and IAM governance.
-IIM Lucknow SLP-8 alumnus. Open to VP / Director-level opportunities in Data & Analytics.
+Visionary AI Technology Leader with 20+ years of enterprise data, AI platform, and governance leadership across global organizations[cite: 1]. I specialize in architecting and deploying ethical AI solutions, designing governance frameworks aligned with strict regulatory standards (DPDP Act, SOX, SOC2, RBI FREE-AI), and advising C-suites on responsible AI adoption strategy[cite: 1].
 
-> 📌 **Note for recruiters:** Production GCP/BigQuery/Airflow work lives in private enterprise repos.
-> The public repos here reflect my ML/analytics foundations. Reach out via LinkedIn for architecture samples.
+My work focuses on embedding **governance-by-design** into production ML pipelines, optimizing multi-cloud infrastructure, and building scalable agentic systems that maximize business value while ensuring absolute compliance, audit readiness, and transparency[cite: 1]..
+
+> 📌 **Enterprise Note:** Production Generative AI, MLOps orchestration, and multi-cloud platform governance frameworks live behind private corporate firewalls[cite: 1, 2]. The public projects curated below serve as sanitized, foundational proof-of-concept components showcasing deterministic analytics and pattern-recognition fundamentals.
 
 ---
 
@@ -33,10 +33,17 @@ IIM Lucknow SLP-8 alumnus. Open to VP / Director-level opportunities in Data & A
 
 ---
 
+## ⚖️ AI Governance & Leadership Competencies
+
+*   **Frameworks & Ethics:** Responsible AI Frameworks, AI Audit Readiness, Fairness & Explainability Frameworks, Bias Detection & Mitigation, Data Governance & Lineage Management[cite: 1]
+*   **Regulatory Alignment:** DPDP Act, SOX, SOC2, PCI-DSS, RBI FREE-AI Compliance, RBAC-based Access Control[cite: 1]
+*   **Advanced AI Execution:** Multi-Agent AI Systems (Gemini Pro, strands_agents), Large Language Models (Ollama, Palantir AIP Builder), MLOps Lifecycle workflows[cite: 1]
+
+---
 ## 📂 Public repositories
 
 ### 🤖 [Face-Recongition](https://github.com/GuhaUdayan/Face-Recongition)
-Real-time face recognition using OpenCV in Python — detection, feature extraction, and live identification.
+> **Enterprise Use Case:** Foundational exploration into real-time pattern matching, video stream ingestion, and localized computer vision. This repository maps directly to the underlying image processing and biometric detection models used in high-security validation workflows. 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -45,7 +52,7 @@ Real-time face recognition using OpenCV in Python — detection, feature extract
 ---
 
 ### 🚕 [New-York-Cab — Ensemble Learning](https://github.com/GuhaUdayan/New-York-Cab-Problem-Solution---Ensemble-Learning)
-NYC taxi fare prediction using Random Forest and Gradient Boosting. Feature engineering, cross-validation, model comparison.
+> **Enterprise Use Case:** Predictive feature engineering and ensemble modeling (Random Forest, Gradient Boosting)[cite: 2]. Demonstrates structural methodologies for handling massive, high-throughput tabular datasets to derive precise pricing models and supply optimization[cite: 2]. 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -54,7 +61,7 @@ NYC taxi fare prediction using Random Forest and Gradient Boosting. Feature engi
 ---
 
 ### 📈 [Time-Series](https://github.com/GuhaUdayan/Time-Series)
-Time series forecasting with Python — stationarity, ARIMA/SARIMA modelling, decomposition, and evaluation.
+> **Enterprise Use Case:** Stochastic demand forecasting and stationarity tracking (ARIMA/SARIMA models)[cite: 2]. This foundational math underpins critical capacity-planning systems, infrastructure autoscaling policies, and predictive anomaly-detection triggers within data lakes.  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-4A90D9?style=flat-square&logo=python&logoColor=white)
@@ -63,7 +70,7 @@ Time series forecasting with Python — stationarity, ARIMA/SARIMA modelling, de
 ---
 
 ### 📊 [Tableau_Dashboards](https://github.com/GuhaUdayan/Tableau_Dashboards)
-Self-built Tableau dashboards exploring layout, calculated fields, filters, and data storytelling.
+**Enterprise Use Case:** Executive Data Storytelling and BI[cite: 2]. Translating complex downstream analytical pipelines into highly functional, clear business layer metrics to enable rapid, data-driven decisions at the C-Suite level[cite: 1, 2].
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
@@ -81,4 +88,4 @@ Personal portfolio website hosted on GitHub Pages.
 
 - 💼 [LinkedIn](https://linkedin.com/in/udayanguha)
 - 🌐 [guhaudayan.github.io](https://guhaudayan.github.io/)
-- 📍 Pune, India
+- 📍 Pune, India (Open to global architectural advisory)[cite: 1]
