@@ -3,7 +3,7 @@
 # Udayan Guha
 ### Data Engineering & SRE Lead · 20+ years · GCP · BigQuery · Airflow · Terraform
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udayanguha)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://guhaudayan.github.io/)
 [![Location](https://img.shields.io/badge/Pune-India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
@@ -79,6 +79,6 @@ Personal portfolio website hosted on GitHub Pages.
 
 ## 📮 Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)
+- 💼 [LinkedIn](https://linkedin.com/in/udayanguha)
 - 🌐 [guhaudayan.github.io](https://guhaudayan.github.io/)
 - 📍 Pune, India
